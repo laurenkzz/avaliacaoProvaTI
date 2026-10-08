@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Lauren Kunz 
+Nome: Lauren Kunz e Silva
 
-RA: >>> PREENCHER <<<
+RA: 23118770-2
 
 Conta GitHub: @laurenkzz
 
