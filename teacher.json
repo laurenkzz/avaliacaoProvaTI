@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "avaliacaoProvaTI",
+  "repo_url": "https://github.com/laurenkzz/avaliacaoProvaTI",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/laurenkzz/avaliacaoProvaTI/issues/1",
+  "gerado_em": "2026-10-08T01:56:51+00:00",
+  "fechada_em": "2026-10-08T01:56:29Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "laurenkzz",
+    "ra": "231187702",
+    "nome": "Lauren Kunz e Silva"
+  },
+  "variante": {
+    "slug": "avaliacaoProvaTI",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 400,
+    "FRACAO_MINUTOS": 15,
+    "TETO_DIARIO_CENTAVOS": 6000,
+    "PORTA_SERVICO": 8001,
+    "TOLERANCIA_MINUTOS": 0
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-08T00:20:07Z",
+    "ultimo_push": "2026-10-07T22:55:25-03:00"
+  },
+  "commits": {
+    "total": 10,
+    "autores": [
+      "Lauren Kunz"
+    ],
+    "primeiro": "2026-10-07T21:11:11-03:00",
+    "ultimo": "2026-10-07T22:55:25-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 0
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 1
+  }
+}
