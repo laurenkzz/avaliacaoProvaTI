@@ -39,7 +39,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | 1| https://chatgpt.com/share/6ac6eea9-e314-83e8-b6cc-f5bedc290a89 | Constitution |
 | 2 | https://chatgpt.com/share/6ac6eea9-e314-83e8-b6cc-f5bedc290a89 | Spec |
-| — | | |
+| 3 | https://chatgpt.com/share/6ac6eea9-e314-83e8-b6cc-f5bedc290a89 | Plan |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
@@ -49,7 +49,7 @@ Declaro que todo o conteúdo deste repositório que não é de minha autoria dir
 está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
-**Nome / RA:**
+**Nome / RA: Lauren Kunz e Silva, 23118770-2 **
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*
